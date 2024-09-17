@@ -1,1 +1,2 @@
-InsertionSort
+-> InsertionSort = Compara o elemento CHAVE com elementos anteriores;
+
