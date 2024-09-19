@@ -11,40 +11,40 @@ Teoria = https://www.freecodecamp.org/portuguese/news/algoritmos-de-ordenacao-ex
 
 -> Código em Python:
 
-import random  
+    import random  
 
-def insertion_sort(v):
+    def insertion_sort(v):
 
-    i = 1
-    
-    while i < len(v):
-    
-        temp = v[i]
-        trocou = False
+        i = 1
         
-        h = i - 1
+        while i < len(v):
         
-        while h >= 0 and v[h] > temp:
-        
-            v[h + 1] = v[h]
+            temp = v[i]
+            trocou = False
             
-            trocou = True 
+            h = i - 1
             
-            h -= 1
+            while h >= 0 and v[h] > temp:
             
-        if trocou:
+                v[h + 1] = v[h]
+                
+                trocou = True 
+                
+                h -= 1
+                
+            if trocou:
+            
+                v[h+1] = temp
+                
+            i += 1
         
-            v[h+1] = temp
-            
-        i += 1
-        
-vetor = list(range(0,10))
+    vetor = list(range(0,10))
 
-random.shuffle(vetor)
+    random.shuffle(vetor)
 
-insertion_sort(vetor)
+    insertion_sort(vetor)
 
-print(vetor)
+    print(vetor)
 
 
 ##
