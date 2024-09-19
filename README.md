@@ -5,7 +5,7 @@ Teoria = https://www.freecodecamp.org/portuguese/news/algoritmos-de-ordenacao-ex
 ##
 -> InsertionSort = Compara o elemento CHAVE com elementos anteriores;
 
--> Site: https://www.w3schools.com/dsa/dsa_algo_insertionsort.php
+-> Site = https://www.w3schools.com/dsa/dsa_algo_insertionsort.php
 
 -> YouTube = https://www.youtube.com/watch?v=UBg3nJrGOKg&t=359s&pp=ygUVaW5zZXJ0aW9uIHNvcnQgcHl0aG9u
 
@@ -40,6 +40,8 @@ Teoria = https://www.freecodecamp.org/portuguese/news/algoritmos-de-ordenacao-ex
 o inicio da array; 
 
 EX: seleciona o menor elemento e o coloca na posição 0 e assim sucessivamente. 
+
+-> Site = https://www.w3schools.com/dsa/dsa_algo_selectionsort.php
 
 -> YouTube = https://www.youtube.com/watch?v=SU4p59wFDSU&list=PLS_pKInUulqNChDCRu_QmjXX4s-WYGqzw&index=2
 
