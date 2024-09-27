@@ -45,5 +45,11 @@ EX: seleciona o menor elemento e o coloca na posição 0 e assim sucessivamente.
 
 -> YouTube = https://www.youtube.com/watch?v=SU4p59wFDSU&list=PLS_pKInUulqNChDCRu_QmjXX4s-WYGqzw&index=2
 
+-> Código em Python:
+
+
+
+
+
 ##
 
